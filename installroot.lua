@@ -1,1 +1,1 @@
-fs.delete(/rom)
+fs.delete("/rom")
